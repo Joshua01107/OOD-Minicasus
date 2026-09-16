@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\bin\Debug\net10.0\Minicasus.exe
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\bin\Debug\net10.0\Minicasus.deps.json
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\bin\Debug\net10.0\Minicasus.runtimeconfig.json
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\bin\Debug\net10.0\Minicasus.dll
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\bin\Debug\net10.0\Minicasus.pdb
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.AssemblyInfo.cs
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.dll
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\refint\Minicasus.dll
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.pdb
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\Minicasus.genruntimeconfig.cache
+C:\Users\joshu\OneDrive - Chr. Hogeschool Ede\Desktop\School\S3-OOD\Minicasus\Minicasus\obj\Debug\net10.0\ref\Minicasus.dll
