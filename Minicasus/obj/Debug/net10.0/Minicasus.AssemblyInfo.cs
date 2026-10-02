@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minicasus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b3957e6a6bdb5efab0b03b890187dd5e197e8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minicasus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minicasus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
